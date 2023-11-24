@@ -3,7 +3,6 @@ import {
   createReducer,
   createAsyncThunk,
 } from "@reduxjs/toolkit";
-import { ToastAndroid } from "react-native";
 
 // @TODO: Should be moved and stored in a keystore
 const apiKey = "ENTER YOU API KEY HERE";
